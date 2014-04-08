@@ -11,7 +11,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 819,
+				"buffer_size": 1226,
 				"line_ending": "Unix"
 			}
 		},
@@ -19,7 +19,7 @@
 			"file": "stylesheet.css",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 18,
 				"line_ending": "Unix"
 			}
 		}
@@ -48,6 +48,7 @@
 	},
 	"file_history":
 	[
+		"/Users/colemantrapp/Coding/aparavize.github.io/stylesheet.css",
 		"/Users/colemantrapp/Coding/2048/style/main.css"
 	],
 	"find":
@@ -92,15 +93,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 819,
+						"buffer_size": 1226,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								416,
-								416
+								0,
+								1226
 							]
 						],
 						"settings":
@@ -110,7 +111,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 56.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -120,15 +121,15 @@
 					"file": "stylesheet.css",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 18,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2,
+								2
 							]
 						],
 						"settings":
