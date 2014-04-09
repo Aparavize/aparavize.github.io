@@ -1,6 +1,6 @@
 function funky() {
 	alert("ouch!!!!");
-
+};
 
 
 
