@@ -3,6 +3,10 @@
 	{
 		"selected_items":
 		[
+			[
+				"te",
+				"text-decoration"
+			]
 		]
 	},
 	"buffers":
@@ -11,7 +15,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1687,
+				"buffer_size": 1670,
 				"line_ending": "Unix"
 			}
 		},
@@ -19,7 +23,7 @@
 			"file": "stylesheet.css",
 			"settings":
 			{
-				"buffer_size": 18,
+				"buffer_size": 52,
 				"line_ending": "Unix"
 			}
 		}
@@ -85,7 +89,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -93,15 +97,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 1687,
+						"buffer_size": 1670,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1264,
-								1264
+								711,
+								711
 							]
 						],
 						"settings":
@@ -111,7 +115,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 227.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -121,15 +125,15 @@
 					"file": "stylesheet.css",
 					"settings":
 					{
-						"buffer_size": 18,
+						"buffer_size": 52,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								50,
+								50
 							]
 						],
 						"settings":
