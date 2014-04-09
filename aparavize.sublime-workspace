@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"fun",
+				"funtion"
+			],
+			[
+				"bg",
+				"bgImage"
+			],
+			[
+				"c",
+				"canvas"
+			],
+			[
 				"te",
 				"text-decoration"
 			]
@@ -15,7 +27,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1670,
+				"buffer_size": 1925,
 				"line_ending": "Unix"
 			}
 		},
@@ -31,7 +43,7 @@
 			"file": "script.js",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 45,
 				"line_ending": "Unix"
 			}
 		}
@@ -79,6 +91,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"canvas",
 			"2048"
 		],
 		"highlight": true,
@@ -97,7 +110,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -105,15 +118,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 1670,
+						"buffer_size": 1925,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								711,
-								711
+								1402,
+								1402
 							]
 						],
 						"settings":
@@ -123,7 +136,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 339.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -159,20 +172,21 @@
 					"file": "script.js",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 45,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								41,
+								41
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
