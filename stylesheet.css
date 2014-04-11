@@ -5,3 +5,36 @@ a {
 li {
 	color: black;
 }
+
+#test {
+	position:absolute;
+	width: 300px;
+	top:900px;
+	left: 1150px;
+}
+
+ .links {
+	border:3px dotted #33CCFF;
+	width: 120px;
+	top:400px;
+	left: 400x;
+}
+
+.links2 {
+	border:3px dotted #66ff66;
+	width: 120px;
+	top:400px;
+	left: 400x;
+}
+
+#float {
+	position: absolute;
+	top: 250px;
+	left: 250px;
+}
+
+#float2 {
+	position: absolute;
+	top: 347px;
+	left: 250px;
+}
