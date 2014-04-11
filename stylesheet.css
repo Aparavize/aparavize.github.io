@@ -38,3 +38,9 @@ li {
 	top: 347px;
 	left: 250px;
 }
+
+#counter {
+	position: absolute;
+	top: 900px;
+
+}
