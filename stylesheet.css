@@ -13,7 +13,7 @@ li {
 	left: 1150px;
 }
 
- .links {
+.links {
 	border:3px dotted #33CCFF;
 	width: 120px;
 	top:400px;
@@ -43,4 +43,9 @@ li {
 	position: absolute;
 	top: 900px;
 
+}
+
+#widget {
+	width: 450px;
+	height: 450px;
 }
